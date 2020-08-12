@@ -16,7 +16,7 @@ My **Shiny Application** must satisfy the following:
 My **Reproducible Pitch Presentation** must be:
 - done in Rstudio Presenter
 - 5 pages (inclusive of the title slide)
-- hosted on github
+- hosted on github  
 It must contain some embedded R code (an R expression) that got evaluated and displayed.
 
 **I have to share:** 
