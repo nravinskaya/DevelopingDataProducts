@@ -15,6 +15,7 @@ https://nravinskaya.shinyapps.io/devdatprodapp/
 
 
 My server.R and ui.R code on github  
+https://github.com/nravinskaya/DevelopingDataProducts/tree/gh-pages/app
 
 ## Application Screenshot
 
