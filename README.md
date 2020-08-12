@@ -17,7 +17,8 @@ My **Reproducible Pitch Presentation** must be:
 - done in Rstudio Presenter
 - 5 pages (inclusive of the title slide)
 - hosted on github  
-It must contain some embedded R code (an R expression) that got evaluated and displayed.
+
+It must also contain some embedded R code that got evaluated and displayed.
 
 **I have to share:** 
 - the link to my Shiny application (https://nravinskaya.shinyapps.io/devdatprodapp/)
