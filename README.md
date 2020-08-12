@@ -8,10 +8,10 @@ My **Shiny Application** must satisfy the following:
 - simple for the end user
 - contains instructions on what the user needs to get started with it
 - must include:
-	1. some form of input (widget: textbox, radio button, checkbox, ...)
-	2. some operation on the ui input in sever.R
-	3. some reactive output displayed as a result of server calculations
-	4. enough documentation (should be at the Shiny website itself) 
+	- some form of input (widget: textbox, radio button, checkbox, ...)
+	- some operation on the ui input in sever.R
+	- some reactive output displayed as a result of server calculations
+	- enough documentation (should be at the Shiny website itself) 
 I have to share: 
 - the application link
 - my server.R and ui.R code on github
