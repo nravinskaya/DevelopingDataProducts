@@ -1,3 +1,16 @@
+## Results
+
+**app link**
+https://nravinskaya.shinyapps.io/devdatprodapp/
+
+**presentation link**
+http://nravinskaya.github.io/DevelopingDataProducts/index.html
+
+My server.R and ui.R **code on github**
+https://github.com/nravinskaya/DevelopingDataProducts/tree/gh-pages/app
+
+## Summary
+
 This is my course project "Shiny Application and Reproducible Pitch" for the Coursera class "Developing Data Products" in *Data Science specialization* offered by *Johns Hopkins University*.
 According to the terms of the assignment, the project has two parts, namely, I have to:  
 1. create a Shiny application and deploy it on Rstudio's servers 
@@ -11,10 +24,7 @@ My **Shiny Application** must satisfy the following:
 	- some form of input (widget: textbox, radio button, checkbox, ...)
 	- some operation on the ui input in sever.R
 	- some reactive output displayed as a result of server calculations
-	- enough documentation (should be at the Shiny website itself) 
-I have to share: 
-- the application link
-- my server.R and ui.R code on github
+	- enough documentation (should be at the Shiny website itself)  
 
 My **Reproducible Pitch Presentation** must be:
 - done in Rstudio Presenter
@@ -22,11 +32,7 @@ My **Reproducible Pitch Presentation** must be:
 - hosted on github
 It must contain some embedded R code (an R expression) that got evaluated and displayed.
 
-**app link**
-https://nravinskaya.shinyapps.io/devdatprodapp/
-
-**presentation link**
-http://nravinskaya.github.io/DevelopingDataProducts/index.html
-
-My server.R and ui.R code on github
-https://github.com/nravinskaya/DevelopingDataProducts/tree/gh-pages/app
+**I have to share:** 
+- the link to my Shiny application
+- the link to my github presentation 
+- my server.R and ui.R code on github
