@@ -1,5 +1,6 @@
-This is my course project "Shiny Application and Reproducible Pitch" for the Coursera class "Developing Data Products" in *Data Science specialization* offered by *Johns Hopkins University*.
-According to the terms of the assignment, the project has two parts, namely, I have to:  
+This is my course project "Shiny Application and Reproducible Pitch" for the Coursera class "Developing Data Products" in *Data Science specialization* offered by *Johns Hopkins University*.  
+According to the terms of the assignment, the project has two parts.  
+I have to:  
 1. create a Shiny application and deploy it on Rstudio's servers 
 2. use Rstudio Presenter to prepare a reproducible pitch presentation about my application.
 
